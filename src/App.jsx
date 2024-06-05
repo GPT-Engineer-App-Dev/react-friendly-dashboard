@@ -1,5 +1,5 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import MyComponent from "./components/MyComponent.jsx";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 function App() {
   return (
